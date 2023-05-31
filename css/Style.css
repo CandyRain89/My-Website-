@@ -1,4 +1,3 @@
-/*blockquote*/
 .fade-in {
   animation: fadeIn 2.5s;
 }
@@ -34,7 +33,7 @@ footer {
 .cardstack {
   /* ... */
   transform: translateX(-100%);
-  animation: slide-in 3s forwards;
+  animation: slide-in 0.5s forwards;
 }
 
 @keyframes slide-in {
